@@ -1,5 +1,6 @@
 # JetBrainsRuntime-for-Linux-x64  
 本来想fork编译jbr17的..失败了...就先这样吧
+
 ~~利用 Github Actions 每月 1 号定时对 [JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) 打[社区大佬的补丁](https://github.com/prehonor/myJetBrainsRuntime)进行改进并针对 Linux x64 平台提供编译产物。~~
 
 ## 说明  
